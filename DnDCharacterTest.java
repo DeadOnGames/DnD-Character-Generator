@@ -14,7 +14,6 @@ public class DnDCharacterTest {
 	dndCharacter.getIntelligence();
 	dndCharacter.getWisdom();
 	dndCharacter.getCharisma();
-	System.out.println();
 	System.out.println("---------------------------------------");
 	System.out.println();
 	dndCharacter.modifier();

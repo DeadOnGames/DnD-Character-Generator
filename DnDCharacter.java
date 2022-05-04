@@ -27,7 +27,6 @@ public DnDCharacter(int strength, int dexterity, int constitution, int intellige
 			myDice[i] =  ran.nextInt(6) + 1;
 			//System.out.print(myDice[i]);
 		}
-		//System.out.println();
 		
 		//Sort the elements in myDice from min to max
 		Arrays.sort(myDice);
